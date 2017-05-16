@@ -1,4 +1,3 @@
-#²ÂÊıÓÎÏ·
 #This is a simple game program
 #Programmed by cyGwendoline
 # -*- coding: UTF-8 -*-
